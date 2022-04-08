@@ -1,0 +1,119 @@
+.top-blocks-headings{
+    font-size:1.2rem;
+}
+
+.top-blocks-subheadings{
+    transform: scale(0.8);
+}
+
+/* .table_data{
+    display: flex !important;
+    justify-content: center !important;
+} */
+.file_status{    
+    width: 102%;
+    background-color: rgb(192, 45, 45);
+    color:white;
+    border-radius: 2px;
+    text-align: center;
+}
+.edit_button{
+    padding: 4px;
+    background-color: #545CD8;
+    color:white;
+    border-radius: 2px;
+}
+.delete_button{
+    padding: 4px;
+    background-color: #545CD8;
+    color:white;
+    border-radius: 2px;
+    margin-left: 2px;
+}
+.download_button{
+    padding: 1px;
+    background-color: #545CD8;
+    color:white;
+    display: block;
+    margin: auto;
+}
+
+#profile_grid_item_details0 {
+    color:rgb(43, 43, 219) !important;
+    border-bottom: 5px solid rgb(43, 43, 219) !important;
+}
+
+.newProjectDetailsFirstDivisionHeading0 {
+    background-color: white;
+    width: 50%;
+}
+
+.newProjectDetailsFirstDivision {
+    display: flex;
+    flex-direction: column;    
+}
+
+.newProjectDetailsFirstDivision1 {
+    margin-top: 20px;
+}
+
+.newProjectDetailsFirstDivisionSpanHeading0 {
+    background-color: white;
+    width: 60%;
+    padding: 10px;
+}
+
+.newProjectDetailsFirstDivision01 {
+    margin-top: 20px;
+}
+
+.newProjectDetailsFirstDivision0 {    
+    background-color: white;
+    width: 50%;
+    padding: 10px;
+}
+
+.newProjectDetailsFirstDivisionSpan {
+    margin-left: 10px;
+    font-size: 1.2rem;        
+}
+
+.newProjectDetailsFirstDivision2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    background-color: white;
+    width: 70%;
+    padding: 20px;
+}
+
+.newProjectDetailsFirstDivision2Division {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.newProjectDetailsFirstDivision2DivisionParagraph {
+    margin-top: 5px;
+}
+
+.newProjectDetailsThirdDivision {
+    margin-top: 30px;
+}
+
+.newProjectDetailsThirdDivisionSaveButton {
+    border: none;
+    background-color: #545CD8 !important;
+    width: 100px;
+    padding: 10px;
+    color: white;
+}
+
+.newProjectDetailsThirdDivisionCancelButton {
+    margin-left: 10px;
+    border: none;
+    background-color: #545CD8 !important;
+    width: 100px;
+    padding: 10px;
+    color: white;
+}

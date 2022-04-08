@@ -1,0 +1,99 @@
+.top-blocks-headings{
+    font-size:1.2rem;
+}
+
+.top-blocks-subheadings{
+    transform: scale(0.8);
+}
+
+/* .table_data{
+    display: flex !important;
+    justify-content: center !important;
+} */
+.file_status{    
+    width: 102%;
+    background-color: rgb(192, 45, 45);
+    color:white;
+    border-radius: 2px;
+    text-align: center;
+}
+.edit_button{
+    padding: 4px;
+    background-color: #545CD8;
+    color:white;
+    border-radius: 2px;
+}
+.delete_button{
+    padding: 4px;
+    background-color: #545CD8;
+    color:white;
+    border-radius: 2px;
+    margin-left: 2px;
+}
+.download_button{
+    padding: 1px;
+    background-color: #545CD8;
+    color:white;
+    display: block;
+    margin: auto;
+}
+
+.profile_grid_item_info {
+    color:rgb(43, 43, 219) !important;
+    border-bottom: 5px solid rgb(43, 43, 219) !important;
+}
+
+#customerDashboardNewProjectInfoNewProjectName {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+#customerDashboardNewProjectInfoNewProjectAddress {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+#customerDashboardNewProjectInfoNewProjectCity {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+#customerDashboardNewProjectInfoNewProjectState {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+#customerDashboardNewProjectInfoNewProjectZip {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+#customerDashboardNewProjectInfoNewProjectNameh4,#customerDashboardNewProjectInfoNewProjectAddressh4,#customerDashboardNewProjectInfoNewProjectCityh4, #customerDashboardNewProjectInfoNewProjectStateh4, #customerDashboardNewProjectInfoNewProjectZiph4 {
+    width: 200px;
+}
+
+#customerDashboardNewProjectInfoNewProjectButtons {
+    margin-top: 30px;
+}
+
+#customerDashboardNewProjectInfoNewProjectNext {
+    border: none;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    width: 70px;
+}
+
+#customerDashboardNewProjectInfoNewProjectCancel {
+    border: none;
+    padding: 10px;
+    background-color: rgb(43, 43, 219);
+    color: white;
+    margin-left: 2%;
+    width: 70px;
+}

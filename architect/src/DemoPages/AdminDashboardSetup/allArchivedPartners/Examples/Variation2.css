@@ -1,0 +1,38 @@
+.top-blocks-headings{
+    font-size:1.2rem;
+}
+
+.top-blocks-subheadings{
+    transform: scale(0.8);
+}
+
+/* .table_data{
+    display: flex !important;
+    justify-content: center !important;
+} */
+.file_status{    
+    width: 102%;
+    background-color: rgb(192, 45, 45);
+    color:white;
+    border-radius: 2px;
+    text-align: center;
+}
+.viewButton{
+    width:90px;
+    text-align: center;
+    color:white;
+    background-color: #545CD8;
+    border:none;
+}
+.editingBlock{
+    margin-top:2px;
+}
+.edit_button{
+    border:none;
+    width:100%
+}
+.delete_button{    
+    border:none;
+    width: 55px;
+    background-color: #d85454;
+}

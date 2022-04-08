@@ -1,0 +1,23 @@
+.viewButton{
+    width:90px;
+    text-align: center;
+    color:white;
+    background-color: #545CD8;
+    border:none;
+}
+.editingBlock{
+    margin-top:2px;
+}
+.edit_button{
+    border:none;
+    width:100%
+}
+.delete_button{    
+    border:none;
+    width: 55px;
+    background-color: #d85454 !important;
+}
+
+.checkBoxDivisions {
+    margin: auto;
+}

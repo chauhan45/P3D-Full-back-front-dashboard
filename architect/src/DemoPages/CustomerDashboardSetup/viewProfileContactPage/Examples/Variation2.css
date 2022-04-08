@@ -1,0 +1,60 @@
+a{
+    text-decoration: none !important;
+}
+
+.profile_grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: white;
+}
+
+.profile_grid_item{
+    color: gray;
+    padding:10%;
+    font-size: 1.3rem;
+    text-align: center;
+    border-bottom: 5px solid gray;
+}
+
+.profile_grid_item_contact{
+    color:rgb(43, 43, 219) !important;
+    border-bottom: 5px solid rgb(43, 43, 219) !important;
+}
+
+.profile_image{
+    /* content:url("../../assets/profilePictures/image6.png"); */
+    margin-top: 10px;
+    display: inline-block;                
+}
+
+#firstName1 {
+    display: none;
+}
+
+#lastName1 {
+    display: none;
+}
+
+#updateButton0 {
+    display: none;
+}
+
+#profTitle1 {
+    display: none;
+}
+
+#email1 {
+    display: none;
+}
+
+#mobileNumber1 {
+    display: none;
+}
+
+#address1 {
+    display: none;
+}
+
+#adminDashboardViewProfileContactPicture {
+    display: none;
+}

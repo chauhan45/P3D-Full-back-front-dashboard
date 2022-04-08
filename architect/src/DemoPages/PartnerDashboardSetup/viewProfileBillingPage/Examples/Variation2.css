@@ -1,0 +1,82 @@
+a {
+    text-decoration: none !important;
+}
+
+.profile_grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: white;
+}
+
+.profile_grid_item{
+    color: gray;
+    padding:10%;
+    font-size: 1.3rem;
+    text-align: center;
+    border-bottom: 5px solid gray;
+}
+
+.profile_grid_item_billing{
+    color:rgb(43, 43, 219) !important;
+    border-bottom: 5px solid rgb(43, 43, 219) !important;
+}
+
+#paymentDivision0 {    
+    margin-top:30px;
+}
+
+.paymentDivision00 {        
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+}
+
+.paymentDivision000 {
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    width: 200px;
+}
+
+.paymentDivision001 {
+    background-color: white;        
+    margin-left: 20px;
+    font-size: 15px;    
+    padding: 10px;    
+}
+
+#paymentDivision00Select {
+    display: none;
+    width: 177px;
+    height: 37px;
+}
+
+#paymentDivision00Name {
+    display: none;
+    width: 159px;
+    height: 38px;
+}
+
+#editButton1 {
+
+}
+
+#updateButton1 {
+    display: none;
+}
+
+#paymentDivision00ExpiryDivision {
+    display: none;
+    margin-top: 9px;
+}
+
+#paymentDivision00ExpiryMonth {    
+}
+
+#paymentDivision00ExpiryYear {    
+}
+
+#paymentDivision00ExpiryCVV {
+    width: 66px;
+    height: 26px;
+}

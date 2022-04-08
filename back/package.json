@@ -1,0 +1,33 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "axios": "^0.24.0",
+    "bcrypt": "^5.0.1",
+    "biguint-format": "^1.0.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.13",
+    "nodemailer": "^6.7.1",
+    "nodemon": "^2.0.15",
+    "react-data-table-component": "^7.4.5",
+    "react-table": "^6.11.5",
+    "verification-code-generator": "^1.0.3"
+  },
+  "devDependencies": {
+    "twilio": "^3.71.2"
+  }
+}

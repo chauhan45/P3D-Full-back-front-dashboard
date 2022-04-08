@@ -1,0 +1,17 @@
+.help_div{
+    position: relative;
+    top:8px;
+    right: 65px;
+    display: flex;
+    flex-direction: row;    
+    transform: scale(0.8);
+}
+#nav-help{
+    position: relative;
+    bottom: 3px;
+    left: 2px;
+    color: gray;
+}
+.help_icon{
+    
+}
